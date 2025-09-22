@@ -16,7 +16,7 @@ Short entries that show consistent progress.
 
 # 21-SEP-25
 - Set up Android dev environment (Android Studio, SDKs, emulator)
-- Tried out a simple idea (EyeBreak) using ChatGPT to assist in the code generation
+- Tried out a simple app idea using ChatGPT to assist in the code generation
 - Successfully run the app physically on my phone, and through the emulator in Android Studio
 - Set up GitHub account
 - Created SHH connection and special profile README for @clauddevio
